@@ -1,0 +1,8 @@
+D:\Projects\Mahesh\StudentInfoService\StudentInfoWebApp\bin\StudentInfoWebApp.dll.config
+D:\Projects\Mahesh\StudentInfoService\StudentInfoWebApp\bin\StudentInfoWebApp.dll
+D:\Projects\Mahesh\StudentInfoService\StudentInfoWebApp\bin\StudentInfoWebApp.pdb
+D:\Projects\Mahesh\StudentInfoService\StudentInfoWebApp\obj\Debug\StudentInfoWebApp.csprojResolveAssemblyReference.cache
+D:\Projects\Mahesh\StudentInfoService\StudentInfoWebApp\obj\Debug\StudentInfoWebApp.dll
+D:\Projects\Mahesh\StudentInfoService\StudentInfoWebApp\obj\Debug\StudentInfoWebApp.pdb
+D:\Projects\Mahesh\StudentInfoService\StudentInfoWebApp\bin\Newtonsoft.Json.dll
+D:\Projects\Mahesh\StudentInfoService\StudentInfoWebApp\bin\Newtonsoft.Json.xml

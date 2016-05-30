@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentInfoService", "StudentInfoService\StudentInfoService.csproj", "{1F31F158-BF96-45FB-A240-3D56AC9C6085}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentInfoWebApp", "StudentInfoWebApp\StudentInfoWebApp.csproj", "{0D471164-C300-4D99-9FD2-55208B69C367}"
+	ProjectSection(ProjectDependencies) = postProject
+		{1F31F158-BF96-45FB-A240-3D56AC9C6085} = {1F31F158-BF96-45FB-A240-3D56AC9C6085}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F31F158-BF96-45FB-A240-3D56AC9C6085}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F31F158-BF96-45FB-A240-3D56AC9C6085}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F31F158-BF96-45FB-A240-3D56AC9C6085}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F31F158-BF96-45FB-A240-3D56AC9C6085}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D471164-C300-4D99-9FD2-55208B69C367}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D471164-C300-4D99-9FD2-55208B69C367}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D471164-C300-4D99-9FD2-55208B69C367}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D471164-C300-4D99-9FD2-55208B69C367}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

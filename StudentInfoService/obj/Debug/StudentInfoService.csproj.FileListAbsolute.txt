@@ -1,0 +1,5 @@
+D:\Projects\Mahesh\StudentInfoService\StudentInfoService\bin\StudentInfoService.dll.config
+D:\Projects\Mahesh\StudentInfoService\StudentInfoService\bin\StudentInfoService.dll
+D:\Projects\Mahesh\StudentInfoService\StudentInfoService\bin\StudentInfoService.pdb
+D:\Projects\Mahesh\StudentInfoService\StudentInfoService\obj\Debug\StudentInfoService.dll
+D:\Projects\Mahesh\StudentInfoService\StudentInfoService\obj\Debug\StudentInfoService.pdb
